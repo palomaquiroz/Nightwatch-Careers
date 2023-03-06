@@ -1,8 +1,8 @@
 
 # NIGHTWATCH AUTOMATION SUITE FOR CAREERS PAGE
 
-This is the automation suite for the Careers page of December Labs webpage.
-Framework used was [Nightwatch](https://nightwatchjs.org/).
+This is the automation suite for the Careers page of December Labs webpage.  
+Framework used was [Nightwatch](https://nightwatchjs.org/).  
 In this suite, you will find tests for:
 * Validating that the "Apply Now!" form opens correctly
 * Validating that, when sending the form with mandatory fields in blank, the proper errors are shown
