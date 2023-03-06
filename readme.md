@@ -29,7 +29,7 @@ Once that is done, go to the project directory
   cd Nightwatch-Careers
 ```
 
-Install dependencies running the following comand
+Install dependencies running the following command
 
 ```bash
   npm install
